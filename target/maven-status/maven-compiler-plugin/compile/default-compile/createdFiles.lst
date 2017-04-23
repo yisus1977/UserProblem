@@ -1,0 +1,8 @@
+com\inter\persistance\UserDAO.class
+com\inter\persistance\UserDAOImpl.class
+com\inter\UserName.class
+com\inter\service\UserServiceImpl.class
+com\inter\model\User.class
+com\inter\service\ForbiddenWordsService.class
+com\inter\service\UserService.class
+com\inter\service\ForbiddenWordsServiceImpl.class

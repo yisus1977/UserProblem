@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Built-By: Jesus
+Build-Jdk: 1.7.0_72
+Class-Path: lib/ UserProblem-0.0.1-SNAPSHOT.lib/spring-core-4.3.3.RELE
+ ASE.jar UserProblem-0.0.1-SNAPSHOT.lib/commons-logging-1.2.jar UserPr
+ oblem-0.0.1-SNAPSHOT.lib/spring-webmvc-4.3.3.RELEASE.jar UserProblem-
+ 0.0.1-SNAPSHOT.lib/spring-aop-4.3.3.RELEASE.jar UserProblem-0.0.1-SNA
+ PSHOT.lib/spring-beans-4.3.3.RELEASE.jar UserProblem-0.0.1-SNAPSHOT.l
+ ib/spring-expression-4.3.3.RELEASE.jar UserProblem-0.0.1-SNAPSHOT.lib
+ /spring-web-4.3.3.RELEASE.jar UserProblem-0.0.1-SNAPSHOT.lib/spring-c
+ ontext-4.3.3.RELEASE.jar UserProblem-0.0.1-SNAPSHOT.lib/spring-jdbc-4
+ .3.3.RELEASE.jar UserProblem-0.0.1-SNAPSHOT.lib/spring-tx-4.3.3.RELEA
+ SE.jar UserProblem-0.0.1-SNAPSHOT.lib/spring-orm-4.3.3.RELEASE.jar Us
+ erProblem-0.0.1-SNAPSHOT.lib/hibernate-entitymanager-4.1.4.Final.jar 
+ UserProblem-0.0.1-SNAPSHOT.lib/jboss-logging-3.1.0.GA.jar UserProblem
+ -0.0.1-SNAPSHOT.lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar Us
+ erProblem-0.0.1-SNAPSHOT.lib/dom4j-1.6.1.jar UserProblem-0.0.1-SNAPSH
+ OT.lib/javassist-3.15.0-GA.jar UserProblem-0.0.1-SNAPSHOT.lib/hiberna
+ te-commons-annotations-4.0.1.Final.jar UserProblem-0.0.1-SNAPSHOT.lib
+ /hibernate-jpa-2.0-api-1.0.1.Final.jar UserProblem-0.0.1-SNAPSHOT.lib
+ /hibernate-core-4.1.4.Final.jar UserProblem-0.0.1-SNAPSHOT.lib/antlr-
+ 2.7.7.jar UserProblem-0.0.1-SNAPSHOT.lib/hsqldb-2.3.2.jar UserProblem
+ -0.0.1-SNAPSHOT.lib/log4j-1.2.17.jar
+Main-Class: com.inter.UserName
+Created-By: Maven Integration for Eclipse
+
