@@ -21,7 +21,7 @@ public class UserName {
 
 		public static void main(String[] args) throws Exception {
 			
-			HashMap<Boolean, List<String>> hm;
+			HashMap<Boolean, List<String>> hm = null;
 	        ClassLoader cl = ClassLoader.getSystemClassLoader();
 
 	        URL[] urls = ((URLClassLoader)cl).getURLs();
@@ -46,7 +46,10 @@ public class UserName {
 			keyboard = new Scanner(System.in);
 			System.out.println("Choose a user name: ");			
 			String username = keyboard.nextLine();
+			try{
 			hm  = usrService.checkUsername(username);
+			}catch(Exception e)
+			{System.out.println(e.getMessage());}
 			if(hm.containsKey(true)){
 				System.out.println("UserName : " + username + " is valid ");	
 				keep = false;
